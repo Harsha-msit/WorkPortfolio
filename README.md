@@ -40,4 +40,4 @@ During Sprint 2, we were split into two teams and my team was given a task of cr
 During Sprint 3, my team started working on farmers profile page where a user with type farmer will be able to edit his/her information and update it in the database without creating a new field in the database.
 
 ## Sprint 4: Learnings
-	During Sprint 4, my team started working on the farmers product adding page where a user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. These details will be showcased in the website and can be edited or deleted by the farmer along with adding new products.
+During Sprint 4, my team started working on the farmers product adding page where a user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. These details will be showcased in the website and can be edited or deleted by the farmer along with adding new products.
