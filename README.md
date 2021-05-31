@@ -9,11 +9,11 @@ Problems faced by farmers and customer’s:
 Many Farmers are ending up in losses because they are unable to find a better price for their product at the regional market. The interference of the middlemen is one of the major problems the farmer’s facing nowadays. The similar applies to the customer too, due to the interference of the middlemen the customer’s end up buying various products for too much price. To eradicate this problem we are working on this “Farmer Customer Connect'' web application.
 
 ## Problem facing till now:
-We had a little problem with the implementation of CSS but we completed the CSS by applying bootstrap.
-We faced a few problems related to posting and fetching data to and from the database, but we could solve the issues by going through various online resources.
-Fetching the product details from the database was a little difficult but, we were able to complete data fetching successfully
-We faced a little problem while trying to add image to database and we had to go through a lot of resources to solve the issue
-Deciding on the right CSS styling took a lot of time and it can always be improved
+* We had a little problem with the implementation of CSS but we completed the CSS by applying bootstrap
+* We faced a few problems related to posting and fetching data to and from the database, but we could solve the issues by going through various online resources
+* Fetching the product details from the database was a little difficult but, we were able to complete data fetching successfully
+* We faced a little problem while trying to add image to database and we had to go through a lot of resources to solve the issue
+* Deciding on the right CSS styling took a lot of time and it can always be improved
 
 
 
