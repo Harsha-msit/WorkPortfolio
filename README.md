@@ -14,6 +14,10 @@ Many Farmers are ending up in losses because they are unable to find a better pr
 * Fetching the product details from the database was a little difficult but, we were able to complete data fetching successfully
 * We faced a little problem while trying to add image to database and we had to go through a lot of resources to solve the issue
 * Deciding on the right CSS styling took a lot of time and it can always be improved
+* Integration was a bit tough and we had power issues due to which the work was postponed
+* Faced a problem while testing the put method and we resolved it later
+* Faced a few issues while working with images but later we could resolve it
+
 
 
 
@@ -41,3 +45,9 @@ During Sprint 3, my team started working on farmers profile page where a user wi
 
 ## Sprint 4:
 During Sprint 4, my team started working on the farmers product adding page where a user with type farmer will be able to add and edit his/her information regarding the products and update it in the database. These details will be showcased in the website and can be edited or deleted by the farmer along with adding new products.
+
+## Sprint 5:
+	During Sprint 5, my team started working on Unit Testing. After a complete day of research about unit testing, we started to implement it. After completing the backend unit testing, we started to work on the previous changes that had to be made. Later, we started with the process of integration.
+
+## Sprint 6:
+	During Sprint 6, my team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
