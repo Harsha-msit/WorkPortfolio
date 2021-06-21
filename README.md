@@ -51,3 +51,6 @@ During Sprint 5, my team started working on Unit Testing. After a complete day o
 
 ## Sprint 6:
 During Sprint 6, my team continued to work the process of integration. During the integration we faced a few issues related to CSS and images. After dealing with these issues, we started to work on implementing a search bar for farmer search and later we moved to work on customer search bar.
+
+##Sprint 7:
+During Sprint 7, my team continued to work the process of integration for profile editing. During the integration we faced a few issues where the information was working well in the backend but fetching the details to the frontend proved a little difficult. After working on these issues, the integration process was completed along with the task of adding to cart page.
