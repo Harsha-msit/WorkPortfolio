@@ -17,8 +17,7 @@ Many Farmers are ending up in losses because they are unable to find a better pr
 * Integration was a bit tough and we had power issues due to which the work was postponed
 * Faced a problem while testing the put method and we resolved it later
 * Faced a few issues while working with images but later we could resolve it
-
-
+* Faced issues while fetching and displaying data for accept or reject orders
 
 
 
